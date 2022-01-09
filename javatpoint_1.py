@@ -1,4 +1,3 @@
-import random
 import math
 train_length = int(input("Enter the length of the train:"))
 crossing_time = int(input("Enter the time for the train to cross the man:"))
